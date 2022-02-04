@@ -4,7 +4,7 @@
 
 I'm Okan from Turkey. I am a student who has just started software. Every day I try to improve myself more.
 
-#### This is my portfolio.
+# This is my portfolio. :stuck_out_tongue_closed_eyes:
 
 ![](https://miro.medium.com/max/1400/0*d0ZSPiNxtP77XRhj.png)
 
